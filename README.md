@@ -1,2 +1,2 @@
 # iMIS2Informz
-iMIS to Informz sync tool (hopefully)
+iMIS Communication Preferences to Informz Interest Groups sync tool (hopefully)
